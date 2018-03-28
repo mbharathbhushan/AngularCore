@@ -1,0 +1,11 @@
+D:\AngularCore\FirstAngularApplication\FirstAngularApplication\bin\Debug\netcoreapp2.0\FirstAngularApplication.deps.json
+D:\AngularCore\FirstAngularApplication\FirstAngularApplication\bin\Debug\netcoreapp2.0\FirstAngularApplication.runtimeconfig.json
+D:\AngularCore\FirstAngularApplication\FirstAngularApplication\bin\Debug\netcoreapp2.0\FirstAngularApplication.runtimeconfig.dev.json
+D:\AngularCore\FirstAngularApplication\FirstAngularApplication\bin\Debug\netcoreapp2.0\FirstAngularApplication.dll
+D:\AngularCore\FirstAngularApplication\FirstAngularApplication\bin\Debug\netcoreapp2.0\FirstAngularApplication.pdb
+D:\AngularCore\FirstAngularApplication\FirstAngularApplication\obj\Debug\netcoreapp2.0\FirstAngularApplication.csprojResolveAssemblyReference.cache
+D:\AngularCore\FirstAngularApplication\FirstAngularApplication\obj\Debug\netcoreapp2.0\FirstAngularApplication.csproj.CoreCompileInputs.cache
+D:\AngularCore\FirstAngularApplication\FirstAngularApplication\obj\Debug\netcoreapp2.0\FirstAngularApplication.AssemblyInfoInputs.cache
+D:\AngularCore\FirstAngularApplication\FirstAngularApplication\obj\Debug\netcoreapp2.0\FirstAngularApplication.AssemblyInfo.cs
+D:\AngularCore\FirstAngularApplication\FirstAngularApplication\obj\Debug\netcoreapp2.0\FirstAngularApplication.dll
+D:\AngularCore\FirstAngularApplication\FirstAngularApplication\obj\Debug\netcoreapp2.0\FirstAngularApplication.pdb
