@@ -1,0 +1,11 @@
+D:\AngularCore\VoltageWebApi\VoltageWebApi\bin\Debug\netcoreapp2.0\VoltageWebApi.deps.json
+D:\AngularCore\VoltageWebApi\VoltageWebApi\bin\Debug\netcoreapp2.0\VoltageWebApi.runtimeconfig.json
+D:\AngularCore\VoltageWebApi\VoltageWebApi\bin\Debug\netcoreapp2.0\VoltageWebApi.runtimeconfig.dev.json
+D:\AngularCore\VoltageWebApi\VoltageWebApi\bin\Debug\netcoreapp2.0\VoltageWebApi.dll
+D:\AngularCore\VoltageWebApi\VoltageWebApi\bin\Debug\netcoreapp2.0\VoltageWebApi.pdb
+D:\AngularCore\VoltageWebApi\VoltageWebApi\obj\Debug\netcoreapp2.0\VoltageWebApi.csprojResolveAssemblyReference.cache
+D:\AngularCore\VoltageWebApi\VoltageWebApi\obj\Debug\netcoreapp2.0\VoltageWebApi.csproj.CoreCompileInputs.cache
+D:\AngularCore\VoltageWebApi\VoltageWebApi\obj\Debug\netcoreapp2.0\VoltageWebApi.AssemblyInfoInputs.cache
+D:\AngularCore\VoltageWebApi\VoltageWebApi\obj\Debug\netcoreapp2.0\VoltageWebApi.AssemblyInfo.cs
+D:\AngularCore\VoltageWebApi\VoltageWebApi\obj\Debug\netcoreapp2.0\VoltageWebApi.dll
+D:\AngularCore\VoltageWebApi\VoltageWebApi\obj\Debug\netcoreapp2.0\VoltageWebApi.pdb
