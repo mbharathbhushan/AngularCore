@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AngularCore\\VoltageWebApi\\VoltageWebApi\\VoltageWebApi.csproj",
+      "projectUniqueName": "D:\\AngularCore\\VoltageWebAPI\\VoltageWebApi\\VoltageWebApi.csproj",
       "projectName": "VoltageWebApi",
-      "projectPath": "D:\\AngularCore\\VoltageWebApi\\VoltageWebApi\\VoltageWebApi.csproj",
+      "projectPath": "D:\\AngularCore\\VoltageWebAPI\\VoltageWebApi\\VoltageWebApi.csproj",
       "packagesPath": "C:\\Users\\bharathm\\.nuget\\packages\\",
-      "outputPath": "D:\\AngularCore\\VoltageWebApi\\VoltageWebApi\\obj\\",
+      "outputPath": "D:\\AngularCore\\VoltageWebAPI\\VoltageWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
